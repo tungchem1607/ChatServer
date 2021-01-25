@@ -1,0 +1,11 @@
+{
+    "name": "tungchem/socketio",
+    "description": "Package chat server",
+    "type": "package",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "ChatWebSocket\\": "src"
+        }
+    }
+}
